@@ -17,13 +17,23 @@ Education
 
 Work experience
 ======
-* 2021 : Scientific Programmer
+* 2021: Scientific Programmer
   * University of Otago
   * Duties included: Assisting researchers with code
-  * Supervisor: Greg Trouson
+  * Supervisor: Greg Trounson
 
-* 2010: Assistant Research Fellow
-  * University of Oatgo
+* 2019-2021: Teaching Fellow
+  * University of Otago  
+  * Duties included: Delivering computational literacy training
+  * Supervisor: Associate Professor Mik Black
+
+* 2019-2021: Scientfic Officer
+  * University of Otago
+  * Duties included: Creating genomic data processing pipelines
+  * Supervisor: Professor Tony Merriman
+
+* 2010-2018: Assistant Research Fellow
+  * University of Otago
   * Duties included: DNA extractions and genotyping
   * Supervisor: Professor Tony Merriman
   
@@ -31,6 +41,7 @@ Skills
 ======
 * R
 * BASH
+* Workshop creation
 
 
 Publications
