@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * BBioMedSc. in Infection and Immunity, University of Otago, 2009
-* DipGrad in Biochemistry, University of Otago, 2014
+* DipGrad in Biochemistry, University of Otago, 2013
 * Ph.D in Biochemistry, University of Otago, 2018
 
 Work experience
@@ -27,10 +27,15 @@ Work experience
   * Duties included: Delivering computational literacy training
   * Supervisor: Associate Professor Mik Black
 
-* 2019-2021: Scientfic Officer
+* 2020-2021: Scientfic Officer
   * University of Otago
   * Duties included: Creating genomic data processing pipelines
   * Supervisor: Professor Tony Merriman
+
+* 2019-2020: Postdoctoral Fellow
+  * University of Otago
+  * Duties included: Bioinformatic data analysis of genetic/genomic data
+  * Supervisor: Professor Tony Merriman   
 
 * 2010-2018: Assistant Research Fellow
   * University of Otago
@@ -64,4 +69,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* NeSI Research Reference Group
+* Instructor Trainer for The Carpentries
