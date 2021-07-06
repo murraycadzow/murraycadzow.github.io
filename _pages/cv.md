@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BBioMedSc. in Infection and Immunity, University of Otago, 2009
+* DipGrad in Biochemistry, University of Otago, 2014
+* Ph.D in Biochemistry, University of Otago, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 : Scientific Programmer
+  * University of Otago
+  * Duties included: Assisting researchers with code
+  * Supervisor: Greg Trouson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2010: Assistant Research Fellow
+  * University of Oatgo
+  * Duties included: DNA extractions and genotyping
+  * Supervisor: Professor Tony Merriman
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* BASH
+
 
 Publications
 ======
