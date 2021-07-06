@@ -2,7 +2,7 @@
 title: "Performance of gout definitions for genetic epidemiological studies: Analysis of UK Biobank"
 collection: publications
 permalink: /publication/2017-08-09-performance-of-gout-definitions-for-genetic-epidemiological-studies-analysis-of-uk-biobank
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: ''
 date: 2017-10-01
 venue: 'Arthritis Research & Therapy'
 paperurl: 'http://doi.org/10.1186/s13075-017-1390-1'
