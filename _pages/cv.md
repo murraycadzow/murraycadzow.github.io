@@ -27,7 +27,7 @@ Work experience
   * Duties included: Delivering computational literacy training
   * Supervisor: Associate Professor Mik Black
 
-* 2020-2021: Scientfic Officer
+* 2020-2021: Scientific Officer
   * University of Otago
   * Duties included: Creating genomic data processing pipelines
   * Supervisor: Professor Tony Merriman
